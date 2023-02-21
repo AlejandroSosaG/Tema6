@@ -13,9 +13,9 @@ public class Ejercicio7 {
             inversa += frase.charAt(i);
         }
         if (frase.equals(inversa) == true)
-            System.out.println("La frse es palíndroma");
+            System.out.println("La frase es palíndroma");
         else
-            System.out.println("La frse no es palíndroma");
+            System.out.println("La frase no es palíndroma");
         sc.close();
     }
 }
